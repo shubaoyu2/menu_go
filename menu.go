@@ -2,7 +2,7 @@ package main
  
 import "fmt"
  
-func main() {
+func menu() {
 	for {
 		var cmd string
 		fmt.Println("cmd:")
@@ -17,3 +17,9 @@ func main() {
 		}
 	}
 }
+
+func main() {
+	menu()
+}
+
+
