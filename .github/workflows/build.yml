@@ -33,4 +33,5 @@ jobs:
 
     - name: go build menu
       run: |
+        ls
         go build menu.go
