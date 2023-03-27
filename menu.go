@@ -1,3 +1,20 @@
+
+// Copyright (C) shubaoyu2, SSE@USTC, 2023-2025                                              
+                                                                                                
+//  FILE NAME             :  menu.go                                                             
+//  PRINCIPAL AUTHOR      :  094sby                                                             
+//  SUBSYSTEM NAME        :  menu                                                                 
+//  MODULE NAME           :  menu                                                                 
+//  LANGUAGE              :  GO                                                                    
+//  TARGET ENVIRONMENT    :  ANY                                                                 
+//  DESCRIPTION           :  This is a menu program                                               
+//
+// Revision log:
+
+// Created by 094sby
+
+ 
+
 package main
  
 import "fmt"
